@@ -77,7 +77,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const username = usernameInput.value;
         console.log("logging username", username);
         if (validateUsername(username)) {
-            fetchUserDetails(username); // ✅ actually call the function
+            fetchUserDetails(username); 
         }
     });
 });
