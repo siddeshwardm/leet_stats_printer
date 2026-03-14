@@ -24,4 +24,13 @@ This project allows users to enter their LeetCode username and view their proble
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## ⚙️ How to Run the Project
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/siddeshwardm/leet_stats_printer.git
+cd leet_stats_printer
